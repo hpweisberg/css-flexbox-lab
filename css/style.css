@@ -17,7 +17,6 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   margin: 0;
-  /* align-items: center; */
   display: flex;
   justify-content: center;
   ;
@@ -80,18 +79,14 @@ img {
 
 footer {
   flex-direction: row;
-  /* justify-content: baseline; */
-  /* text-align: justify; */
   display: flex;
   width: 100%;
   height: 2.6em;
-  /* align-content: center; */
 }
 
 .phone {
   background-color: rgba(33, 255, 111, 0.739);
   width: 50%;
-  /* text-align: center; */
   line-height: 40px;
   width: 50%;
 
@@ -100,13 +95,9 @@ footer {
 }
 .text {
   background-color: rgba(0, 142, 50, 0.739);
-  /* align-items: flex-start; */
   width: 50%;
-  /* text-align: center; */
   line-height: 40px;
-  /* height: 100%; */
-  /* display: inline-block; */
-  /* vertical-align: middle; */
+
 }
 
 .stars {
