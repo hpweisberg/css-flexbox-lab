@@ -117,24 +117,24 @@ footer {
   text-align: center;
   flex-direction: column;
   background-color: azure;
-  /* min-height: 60vh; */
+  min-height: 60vh;
   height: 369px;
   max-width: 35em;
-  /* min-width: 100vh; */
+  /* /* min-width: 100vh; */
   margin: 10vh 0 0 0;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.150);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.150); */
   
 }
 
 .main-container > p {
-  font-size: 8px;
+  /* font-size: 8px;
   text-align: right;
   color:rgba(0, 0, 0, 0.405);
   align-items: flex-end;
   width: 100%;
   justify-content: end;
   display: flex;
-  padding-right: 2em;
+  padding-right: 2em; */
 }
 
 img {
